@@ -19,8 +19,7 @@
     "paths": {
       "src/*": ["src/*"],
       "components/*": ["src/components/*"],
-      "hooks/*": ["src/hooks/*"],
-      "zod": ["../shared/node_modules/zod"]
+      "hooks/*": ["src/hooks/*"]
     },
     "types": ["vite/client"]
   },
