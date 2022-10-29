@@ -47,6 +47,7 @@ export default defineConfig((configEnv) => {
     },
     build: {
       minify: true,
+      target: "esnext",
     },
     server: {
       port: 3069,
